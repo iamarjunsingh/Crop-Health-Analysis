@@ -208,6 +208,4 @@ GitHub: [https://github.com/iamarjunsingh](https://github.com/iamarjunsingh)
 
 If you found this project useful, please give it a ⭐ on GitHub!
 
----
 
-```
