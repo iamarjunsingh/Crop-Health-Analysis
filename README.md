@@ -211,5 +211,3 @@ If you found this project useful, please give it a ⭐ on GitHub!
 ---
 
 ```
-::contentReference[oaicite:0]{index=0}
-```
